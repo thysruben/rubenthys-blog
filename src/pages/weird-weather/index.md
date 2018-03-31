@@ -7,7 +7,7 @@ Hello there and welcome to blog number two!
 
 Let’s kick things off with the the weird weather here in London. Snow. Yes, it snowed! According to Google Weather the temperature felt like minus eight degrees Celsius! Everyone went to work in their snow boots while wearing their suit, so that was quite funny to see. That also meant that I had another excuse to wear my six inch Timberlands again. Yay! And although the streets were very slippery, I enjoyed my walks to and from work in the snow.
 
-![Google weather screenshot](weather.png)
+![Google weather screenshot](weather.jpg)
 
 With the weather as cold as it was, a nice hot shower in the morning is more appreciated than ever. Well, though luck. The water boiler stopped working and my showers, which I always start with cold water, never turned hot. And the water felt even more cold than usual, so for three mornings I had to face the coldest showers of my life! And to top things off, the heating just gave up. Apparently the cold weather messed with the gas supply and it took about a week for the British Gas Company to come to our house and fix it.
 Oh, and the washing machine is still broken. The landlord promised to install a new one, but it is taking some time.
